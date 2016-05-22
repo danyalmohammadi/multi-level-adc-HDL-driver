@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
+// Company: Boise State University
+// Engineer:  Danyal Mohammadi
 //
 // Create Date:   15:16:24 05/22/2016
 // Design Name:   adc_fsm
-// Module Name:   C:/Users/danyalmohammadi/Desktop/PhD/Research/FPGA_PROJECTS/Zedboard and Pmod/PMOD/MaximIntegratedADC/driver_HDL/santaFe_ADC_driver/tb_adc_fsm.v
+// Module Name:   
 // Project Name:  santaFe_ADC_driver
 // Target Device:  
 // Tool versions:  
