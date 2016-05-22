@@ -1,2 +1,2 @@
-# multi-level-adc-HDL-driver
-I created this driver for (AFE) ADC bought from Maximintegrated company named Santa Fe. The inputs to this AFE can vary +/- 10 V. Throughput for one channel is around 115 samples/second. The output also could be used for micro controllers or FPGA such as Zedboardboards.
+# multi-level-ADC-HDL-driver
+I created this driver for (AFE) ADC bought from Maximintegrated company, SANTA FE (MAXREFDES5#). Inputs to this AFE can vary from -10V to + 10 V. Throughput for one channel is around 115K samples/second. The digital output also could be used for micro controllers or FPGAs such as Zedboardboard.
